@@ -23,3 +23,6 @@ Capstone : DDOS 탐지 AutoEncoder IDS + Django 모니터링 서비스
 ## IDS 실행
 > 임시계정
 <pre><code>id : text / pw : 1234</pre></code>
+------------------------------------------------------------------
+## 연계 스마트미터기
+https://github.com/seleuchel/Capstone_smartmeter
