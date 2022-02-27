@@ -1,6 +1,6 @@
-Capstone : DDOS 탐지 IDS + Django 모니터링 서비스
+Capstone : DDOS 탐지 AutoEncoder IDS + Django 모니터링 서비스
 =====================================================================
-
+<img src="https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/-Django-%23092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/-Keras-%23FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> 
 ## Setting
 > 이 레포지토리를 git clone 해줍니다.
 <pre><code>git clone [이 git repository 주소]</pre></code>
